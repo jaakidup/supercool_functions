@@ -25,3 +25,10 @@ something("jaaki").then((result) => {
 
 
 
+// result = "something";
+// console.log(result);
+
+
+
+mytag = "my tag";
+console.log('mytag :', mytag);
