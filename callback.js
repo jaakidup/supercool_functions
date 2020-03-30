@@ -6,3 +6,4 @@ function doSomething(name, cb) {
 
 
 doSomething(name, (value) => console.log(value))
+
